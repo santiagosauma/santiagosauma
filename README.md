@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lssaumap@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Pl82VZkdB-DOESuEZcobBGYVcGPtFx2noxPTqNos03I/edit?usp=sharing](https://docs.google.com/document/d/1Pl82VZkdB-DOESuEZcobBGYVcGPtFx2noxPTqNos03I/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Pl82VZkdB-DOESuEZcobBGYVcGPtFx2noxPTqNos03I/edit?usp=sharing](bit.ly/3XlN0J5)
 
 <h3 align="left" style="color:white;">Connect with me:</h3>
 <p align="left">
