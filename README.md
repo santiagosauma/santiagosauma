@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSauma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-  [![Spotify](https://spotify-widget-3buzmfgtk-luis-santiago-sauma-penalozas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/SantiSauma)
+  [![Spotify](https://spotify-widget-three.vercel.app/api/spotify)](https://open.spotify.com/user/SantiSauma)
 </div>
 
