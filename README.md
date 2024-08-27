@@ -128,7 +128,12 @@
 </p>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagosauma&show_icons=true&locale=en&layout=compact&theme=dark" alt="santiagosauma" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=santiagosauma&show_icons=true&locale=en&theme=dark" alt="santiagosauma" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagosauma&theme=dark" alt="santiagosauma" /></p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagosauma&show_icons=true&locale=en&layout=compact&theme=dark" alt="santiagosauma" style="display:inline-block;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=santiagosauma&show_icons=true&locale=en&theme=dark" alt="santiagosauma" style="display:inline-block;"/>
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=santiagosauma&theme=dark" alt="santiagosauma"/>
+  </p>
 </div>
+
