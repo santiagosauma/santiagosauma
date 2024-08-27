@@ -12,4 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SantiagoSauma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSauma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=5nzy3f9qr2r9intl7uizgeloe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=5nzy3f9qr2r9intl7uizgeloe&redirect=true)
+spotify-widget-3buzmfgtk-luis-santiago-sauma-penalozas-projects.vercel.app
+<div align="center">
+  [![Spotify](https://spotify-widget-3buzmfgtk-luis-santiago-sauma-penalozas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/SantiSauma)
+</div>
+
