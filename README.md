@@ -12,7 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SantiagoSauma&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoSauma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-spotify-widget-3buzmfgtk-luis-santiago-sauma-penalozas-projects.vercel.app
 <div align="center">
   [![Spotify](https://spotify-widget-3buzmfgtk-luis-santiago-sauma-penalozas-projects.vercel.app/api/spotify)](https://open.spotify.com/user/SantiSauma)
 </div>
