@@ -19,7 +19,9 @@
 
 <h3 align="center" style="color:white;">2024</h3>
 - ⚙ Lead Engineering Student Representing Computer Science (ITC). ⚙
+
 - 🌟 Winner of the First Código Facilito Hackathon on Compiler Development. 🌟
+  
 - 💵 Director of Finance at CybersecurityTec. 💵
 
 <h3 align="left" style="color:white;">Connect with me:</h3>
