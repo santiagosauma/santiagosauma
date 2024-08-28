@@ -18,6 +18,7 @@
 - 📄 Know about my experiences [bit.ly/3XlN0J5](bit.ly/3XlN0J5)
 
 <h3 align="center" style="color:white;">2024</h3>
+
 - ⚙ Lead Engineering Student Representing Computer Science (ITC). ⚙
 
 - 🌟 Winner of the First Código Facilito Hackathon on Compiler Development. 🌟
