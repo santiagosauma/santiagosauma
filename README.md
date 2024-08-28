@@ -17,6 +17,11 @@
 
 - 📄 Know about my experiences [bit.ly/3XlN0J5](bit.ly/3XlN0J5)
 
+2024
+- ⚙ Lead Engineering Student Representing Computer Science (ITC). ⚙
+- 🌟 Winner of the First Código Facilito Hackathon on Compiler Development. 🌟
+- 💵 Director of Finance at CybersecurityTec. 💵
+
 <h3 align="left" style="color:white;">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/santiagosauma/" target="blank">
