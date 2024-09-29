@@ -1,5 +1,5 @@
 <h1 align="center" style="color:white;">Hi 👋, I'm Santiago Sauma</h1>
-<h3 align="center" style="color:white;">A tech-passionate Bolivian 🇧🇴 studying at Tec de Monterrey 🇲🇽.</h3>
+<h3 align="center" style="color:white;">A tech-passionate Bolivian 🇧🇴 studying at Tec de Monterrey 🇲🇽</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
