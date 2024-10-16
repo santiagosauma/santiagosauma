@@ -132,7 +132,7 @@
   </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="filter: invert(100%);" /> 
-  </a> 
+  </a>
 </p>
 
 <div align="center">
