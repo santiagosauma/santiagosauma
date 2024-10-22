@@ -26,7 +26,7 @@
 - 💵 Director of Finance at CybersecurityTec. 💵
 
 <h3 align="left" style="color:white;">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/santiagosauma/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiagosauma/" height="30" width="40" style="filter: invert(100%);" />
   </a>
