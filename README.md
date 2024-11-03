@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on [Mostla](https://mostla.tec.mx)
-
+ 
 - 🌱 I’m currently learning **Next.js, PostgreSQL, QA Testing**
 
 - 💬 Ask me about **Web Development, Hackathon Ideas, Competitive Programming**
