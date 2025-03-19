@@ -7,7 +7,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Mostla](https://mostla.tec.mx)
+- 🔭 I’m currently working on [Mostla](https://mostla.tec.mx), [Softpital](https://softpital.com) and as a Freelancer
  
 - 🌱 I’m currently learning **Next.js, PostgreSQL, QA Testing**
  
